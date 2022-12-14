@@ -1,0 +1,11 @@
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\obj\Debug\calculadora teste.csproj.AssemblyReference.cache
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\obj\Debug\calculadora teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\obj\Debug\calculadora_teste.Form1.resources
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\obj\Debug\calculadora_teste.Properties.Resources.resources
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\obj\Debug\calculadora teste.csproj.GenerateResource.cache
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\obj\Debug\calculadora teste.csproj.CoreCompileInputs.cache
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\bin\Debug\calculadora teste.exe.config
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\bin\Debug\calculadora teste.exe
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\bin\Debug\calculadora teste.pdb
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\obj\Debug\calculadora teste.exe
+C:\Users\abner.ebrodrigues\source\repos\calculadora teste\obj\Debug\calculadora teste.pdb
